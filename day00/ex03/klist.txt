@@ -1,0 +1,5 @@
+Credentials cache: API:9EF3848E-EE30-455A-8933-DC78F15052E5
+        Principal: julclerc@42.FR
+
+  Issued                Expires               Principal
+Jul  1 13:20:07 2019  Jul  8 13:20:07 2019  krbtgt/42.FR@42.FR
